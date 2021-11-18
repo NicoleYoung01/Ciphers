@@ -6,4 +6,4 @@
 * If you only knew the ciphertext then you would have to use brute force cryptanalysis to search for matches between pairs of letters and the known frequency of occurrence of the pair of letters in the language.
 
 ## What is the mathematical complexity to solve the code?
-### This cipher has 676 possible digraphs.
+* This cipher has 676 possible digraphs.
