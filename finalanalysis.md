@@ -7,4 +7,4 @@
 ## What are other interesting uses of this code or similar codes?
 ### One intresting code that i found that was simaler to four square is tap code.
 
-[four square image](https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/6513896_orig.jpg)
+![source](https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/6513896_orig.jpg)
