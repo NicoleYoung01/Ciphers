@@ -13,5 +13,7 @@
 * Then in the lower left square where the column of your first letter and the row of your second letter meet is the second letter of the encrypted digraph. 
 * Do this for the rest of the letters in your word or words and you have your encryption. 
 
+### [Demo](https://www.dcode.fr/four-squares-cipher)
+
 ## Is it symmetric?
 ### Yes the cipher is symmetric. To decrypt you would do the same thing as you would to encrypt just in reverse.  
